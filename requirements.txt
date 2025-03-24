@@ -1,4 +1,4 @@
 streamlit
 streamlit_chat
-langchain
+langchain-community
 sentence_transformers
